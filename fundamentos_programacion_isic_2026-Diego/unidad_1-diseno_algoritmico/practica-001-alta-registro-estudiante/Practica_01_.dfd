@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+61
+'Alta de registro de estudiantes en el sistema universitario'
+4
+1
+30
+'Ingrese su numero de control'
+5
+1
+13
+numeroControl
+4
+1
+28
+'Ingrese su nombre completo'
+5
+1
+14
+nombreCompleto
+4
+1
+43
+'Ingrese su promedio final de preparatoria'
+5
+1
+13
+promedioPrepa
+4
+1
+54
+'Tiene su estatus de documentacion completa?(Si) (No)'
+5
+1
+17
+estatusDocumentos
+4
+1
+23
+'FICHA DIGITAL ESCOLAR'
+4
+1
+61
+'No. Control: ', numeroControl, ' | Nombre: ', nombreCompleto
+4
+1
+62
+'Promedio: ', promedioPrepa, ' | Estatus: ', estatusDocumentos
+1
