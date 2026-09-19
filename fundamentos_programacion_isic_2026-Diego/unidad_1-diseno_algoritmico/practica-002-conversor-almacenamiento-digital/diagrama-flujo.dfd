@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+52
+'Ingrese la cantidad de almacenamiento en Gybabytes'
+5
+1
+11
+capacidadGB
+6
+3
+11
+capacidadMB
+18
+capacidadGB * 1024
+11
+capacidadKB
+18
+capacidadMB * 1024
+11
+capacidadTB
+18
+capacidadGB / 1024
+4
+1
+67
+'MB: ', capacidadMB, ' | KB: ', capacidadKB, ' | TB: ', capacidadTB
+1
