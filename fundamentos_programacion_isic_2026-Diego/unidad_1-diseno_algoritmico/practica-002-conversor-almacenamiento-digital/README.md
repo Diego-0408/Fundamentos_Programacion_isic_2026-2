@@ -9,7 +9,7 @@
 
 ## Archivos de la Evidencia
 1. `analisis-ipo.md`: Análisis Entrada-Proceso-Salida.
-2. `pseudocodigo.txt`: Archivo fuente ejecutable de PSeInt.
+2. `pseudocodigo.txt`: Archivo txt.
 3. `diagrama-flujo.dfd`: Diagrama de flujo exportado de DFD.
 4. `casos-prueba.md`: Tabla de validación de resultados.
 5. `reflexion.md`: Autoevaluación y aprendizajes clave.
