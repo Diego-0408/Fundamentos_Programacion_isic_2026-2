@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+66
+'Ingrese los segundos totales de su estancia en el servidor linux'
+5
+1
+15
+segundosTotales
+6
+3
+5
+horas
+28
+TRUNC (segundosTotales/3600)
+17
+segundosRestantes
+24
+segundosTotales MOD 3600
+7
+minutos
+28
+TRUNC (segundosRestantes/60)
+6
+1
+15
+segundosFinales
+24
+segundosRestantes MOD 60
+4
+1
+121
+'Su tiempo en el servidor Linux fue de: ', horas, ' hora(s), ', minutos, ' minuto(s) y ', segundosFinales, ' segundo(s).'
+1
