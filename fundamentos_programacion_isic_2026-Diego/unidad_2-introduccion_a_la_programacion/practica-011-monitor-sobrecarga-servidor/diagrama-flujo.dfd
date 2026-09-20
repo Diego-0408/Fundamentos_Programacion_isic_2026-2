@@ -1,0 +1,46 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+14
+'Servidor Web'
+4
+1
+9
+'Uso CPU'
+5
+1
+6
+usoCPU
+6
+1
+14
+alertaActivada
+7
+'FALSO'
+7
+0
+1
+13
+usoCPU > 85.0
+13
+6
+1
+14
+alertaActivada
+11
+'VERDADERO'
+4
+1
+74
+'Porcentaje medido: ' , usoCPU , '% | Estado de alerta: ' , alertaActivada
+13
+4
+1
+71
+'Porcentaje medido: ', usoCPU, '% | Estado de alerta: ', alertaActivada
+1
