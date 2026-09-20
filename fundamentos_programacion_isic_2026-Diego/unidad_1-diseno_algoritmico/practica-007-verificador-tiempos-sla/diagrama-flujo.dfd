@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+65
+'Cual ah sido el tiempo de respuesta de la API?(En milisegundos)'
+5
+1
+15
+tiempoRespuesta
+6
+2
+10
+SLA_LIMITE
+5
+200.0
+9
+cumpleSLA
+29
+tiempoRespuesta <= SLA_LIMITE
+4
+1
+126
+'El tiempo de respuesta fue de: ', tiempoRespuesta, ' ms. ¿La medicion cumple con el acuerdo de SLA (<= 200 ms)?: ', cumpleSLA
+1
