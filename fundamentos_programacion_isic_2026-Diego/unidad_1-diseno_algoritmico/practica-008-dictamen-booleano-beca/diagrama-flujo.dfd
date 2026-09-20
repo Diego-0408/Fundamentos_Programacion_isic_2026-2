@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+29
+'Ingrese su promedio general'
+5
+1
+15
+promedioGeneral
+4
+1
+47
+'Ingrese la cantidad de sus creditos aprobados'
+5
+1
+17
+creditosAprobados
+6
+1
+10
+esElegible
+54
+(promedioGeneral >= 85.0) AND (creditosAprobados >=45)
+4
+1
+27
+'Es elegible?: ',esElegible
+1
