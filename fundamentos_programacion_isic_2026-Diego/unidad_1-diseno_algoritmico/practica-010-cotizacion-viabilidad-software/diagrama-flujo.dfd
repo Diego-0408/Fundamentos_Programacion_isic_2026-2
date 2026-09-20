@@ -1,0 +1,117 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+32
+'Ingrese el nombre del proyecto'
+5
+1
+14
+nombreProyecto
+4
+1
+51
+'Ingrese las horas totales de desarrollo estimadas'
+5
+1
+15
+horasDesarrollo
+4
+1
+27
+'Ingrese el costo por hora'
+5
+1
+9
+costoHora
+4
+1
+43
+'Ingrese el presupuesto maximo del cliente'
+5
+1
+18
+presupuestoCliente
+4
+1
+69
+'Ingrese el plazo maximo tolerado por el cliente (En numero de dias)'
+5
+1
+16
+plazoClienteDias
+6
+3
+14
+JORNADA_DIARIA
+1
+8
+11
+DIAS_SEMANA
+1
+5
+16
+subtotalManoObra
+27
+horasDesarrollo * costoHora
+6
+3
+16
+gastosOperativos
+23
+subtotalManoObra * 0.12
+17
+descuentoConvenio
+23
+subtotalManoObra * 0.05
+14
+costoTotalNeto
+55
+subtotalManoObra + gastosOperativos - descuentoConvenio
+6
+3
+8
+costoIVA
+21
+costoTotalNeto * 0.16
+14
+granCostoTotal
+25
+costoTotalNeto + costoIVA
+11
+diasTotales
+39
+trunc(horasDesarrollo / JORNADA_DIARIA)
+6
+3
+14
+horasRestantes
+34
+horasDesarrollo mod JORNADA_DIARIA
+16
+semanasLaborales
+30
+TRUNC(diasTotales/DIAS_SEMANA)
+17
+presupuestoViable
+36
+granCostoTotal <= presupuestoCliente
+6
+2
+11
+plazoViable
+31
+diasTotales <= plazoClienteDias
+16
+proyectoAprobado
+33
+presupuestoViable AND plazoViable
+4
+1
+338
+'INFORME DEL PROYECTO: ', nombreProyecto, ' --- | Gran Total a Cobrar: $', granCostoTotal, ' | Desglose de Tiempo: ', semanasLaborales, ' semana(s), ', diasTotales, ' dia(s) y ', horasRestantes, ' hora(s) | DICTAMEN: Presupuesto Viable = ', presupuestoViable, ' | Plazo Viable = ', plazoViable, ' | PROYECTO APROBADO = ', proyectoAprobado
+1
