@@ -1,11 +1,11 @@
-# Práctica [Número]: [Nombre de la Práctica]
+# Práctica 014: Dispatcher de comandos de consola CLI
 
 ## Información General
 * **Asignatura:** Fundamentos de Programación
 * **Unidad:** Unidad 1 - Tipos de datos, variables y expresiones
 * **Estudiante:** Diego Miguel Castro Arellano
 * **Número de Control:** 260112001
-* **Fecha de Entrega:** 19/9/26
+* **Fecha de Entrega:** 21/9/26
 
 ## Archivos de la Evidencia
 1. `analisis-ipo.md`: Análisis Entrada-Proceso-Salida.
@@ -15,4 +15,4 @@
 5. `reflexion.md`: Autoevaluación y aprendizajes clave.
 
 ## Resumen de la Solución
-[Breve descripción de 2 a 3 renglones sobre cómo tu algoritmo resuelve el problema contextualizado sin usar condicionales ni bucles].
+Para simular la consola CLI, el programa despliega las opciones disponibles y captura la selección del usuario. Usando una estructura de selección múltiple, evalúa directamente el valor ingresado para ejecutar la tarea correspondiente o emitir un mensaje de error si la opción cae fuera del menú.

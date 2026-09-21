@@ -4,4 +4,64 @@
 1
 0
 0
+4
+1
+55
+'--Ingrese el numero de la accion que desee realizar--'
+4
+1
+77
+'1. Reinicar servidor,2. Mostrar Estado, 3. Limpiar cache, 4. Cerrar sesion.'
+5
+1
+10
+opcionMenu
+7
+0
+1
+14
+opcionMenu = 1
+7
+0
+1
+14
+opcionMenu = 2
+7
+0
+1
+14
+opcionMenu = 3
+7
+0
+1
+14
+opcionMenu = 4
+4
+1
+18
+'Opcion no valida'
+13
+4
+1
+20
+'Cerrando Sesion...'
+13
+13
+4
+1
+20
+'Limpiando Cache...'
+13
+13
+4
+1
+21
+'Mostrando estado...'
+13
+13
+4
+1
+25
+'Reiniciando servidor...'
+13
 1
