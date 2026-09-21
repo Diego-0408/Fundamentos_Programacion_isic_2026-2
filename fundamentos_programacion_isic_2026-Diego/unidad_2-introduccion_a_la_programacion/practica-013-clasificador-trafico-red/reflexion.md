@@ -1,10 +1,10 @@
 # Reporte de Reflexión y Autoevaluación
 
 ## 1. Retos y Dificultades Encontradas
-[Describe qué parte del diseño algorítmico, formulación matemática o sintaxis de PSeInt/DFD representó un desafío y cómo lo resolviste].
+Al comienzo de la practica se me dificulto un poco la parte de hacer la secuencia de prioridades para los respectivos puertos que fueran ingresados pero lo pude resolver.
 
 ## 2. Errores Cometidos durante la Depuración
-[Menciona al menos un error que haya ocurrido durante la ejecución paso a paso (ej. error de tipos, parentización incorrecta) y la corrección aplicada].
+Solo ocurrio un error durante la primerea depuracion, fue de una condicion de operacion.
 
 ## 3. Conclusión Técnica
-[Explica la importancia de haber resuelto esta práctica respetando la secuencialidad pura y sin el uso de condicionales].
+Esta practica me sirvio para poder entender mejor como funciona la estructura de las condicionales y como se pueden hacer secuencias entre ellas para crear un "arbol" se condiciones en mis programas.

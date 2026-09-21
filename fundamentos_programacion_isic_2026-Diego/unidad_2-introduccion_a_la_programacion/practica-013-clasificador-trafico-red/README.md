@@ -1,11 +1,11 @@
-# Práctica [Número]: [Nombre de la Práctica]
+# Práctica 013: Clasficador de trafico QoS de Red
 
 ## Información General
 * **Asignatura:** Fundamentos de Programación
 * **Unidad:** Unidad 1 - Tipos de datos, variables y expresiones
 * **Estudiante:** Diego Miguel Castro Arellano
 * **Número de Control:** 260112001
-* **Fecha de Entrega:** 19/9/26
+* **Fecha de Entrega:** 21/9/26
 
 ## Archivos de la Evidencia
 1. `analisis-ipo.md`: Análisis Entrada-Proceso-Salida.
@@ -15,4 +15,4 @@
 5. `reflexion.md`: Autoevaluación y aprendizajes clave.
 
 ## Resumen de la Solución
-[Breve descripción de 2 a 3 renglones sobre cómo tu algoritmo resuelve el problema contextualizado sin usar condicionales ni bucles].
+Para organizar el tráfico del router, el algoritmo recibe el número de puerto y lo pasa por un filtro anidado. Evalúa secuencialmente en qué rango numérico cae el valor para clasificarlo en prioridad alta, media o baja, y si el número resulta estar fuera de los límites de red permitidos, descarta la entrada emitiendo la alerta de puerto inválido.

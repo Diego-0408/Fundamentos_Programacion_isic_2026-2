@@ -4,4 +4,49 @@
 1
 0
 0
+4
+1
+53
+'Ingrese el numero de puerto de destino (1 a 65535):'
+5
+1
+12
+numeroPuerto
+7
+0
+1
+42
+numeroPuerto >= 1 and numeroPuerto <= 1024
+7
+0
+1
+46
+numeroPuerto >= 1025 and numeroPuerto <= 49151
+7
+0
+1
+47
+numeroPuerto >= 49152 and numeroPuerto <= 65535
+4
+1
+17
+'Puerto invalido'
+13
+4
+1
+45
+'Prioridad Baja (Puertos Dinamicos/Privados)'
+13
+13
+4
+1
+44
+'Prioridad Media (Aplicaciones Registradas)'
+13
+13
+4
+1
+40
+'Prioridad Alta (Servicios del Sistema)'
+13
 1
