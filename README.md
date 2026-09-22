@@ -22,6 +22,10 @@ El objetivo principal es aprender las bases de la programación y mejorar mi ló
 
 También quiero utilizar este repositorio para acostumbrarme a trabajar con Git y GitHub desde el inicio de la carrera y llevar un mejor control de mis actividades.
 
+## Uso de Inteligencia Artificial
+
+Durante el desarrollo de los proyectos y prácticas se hace uso de herramientas de Inteligencia Artificial exclusivamente como apoyo para la redacción, estructuración y formato de la documentación (tablas de casos de prueba, análisis IPO, ortografía y resúmenes). La lógica algorítmica, el diseño del pseudocódigo y los diagramas de flujo son desarrollados de forma propia.
+
 ## Organización
 
 Las actividades estarán organizadas en diferentes carpetas para mantener el repositorio lo más ordenado posible.
@@ -31,4 +35,3 @@ Las actividades estarán organizadas en diferentes carpetas para mantener el rep
 **Diego Miguel Castro Arellano**
 
 Estudiante de Ingeniería en Sistemas computacionales.
-

@@ -1,4 +1,4 @@
-# Práctica [Número]: [Nombre de la Práctica]
+# Práctica 015: Reintento de conexion a base de datos
 
 ## Información General
 * **Asignatura:** Fundamentos de Programación
@@ -15,4 +15,4 @@
 5. `reflexion.md`: Autoevaluación y aprendizajes clave.
 
 ## Resumen de la Solución
-[Breve descripción de 2 a 3 renglones sobre cómo tu algoritmo resuelve el problema contextualizado sin usar condicionales ni bucles].
+Para gestionar la conexión a la base de datos, el programa inicializa un contador de intentos y una bandera de estado. Mediante un ciclo Mientras, permite solicitar la contraseña iterativamente hasta que el usuario acierte la clave correcta o agote sus tres oportunidades, garantizando que el acceso se otorgue inmediatamente o se bloquee por límite de fallos.

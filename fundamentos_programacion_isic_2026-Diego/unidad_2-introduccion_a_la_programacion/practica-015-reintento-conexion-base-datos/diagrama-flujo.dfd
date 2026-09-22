@@ -4,4 +4,65 @@
 1
 0
 0
+6
+3
+7
+intento
+1
+1
+14
+estadoConexion
+7
+'FALSO'
+16
+PASSWORD_USUARIO
+11
+'dbpass123'
+9
+1
+41
+intento <= 3 and estadoConexion = 'FALSO'
+4
+1
+23
+'Ingrese su contraseña'
+5
+1
+17
+passwordIngresada
+7
+0
+1
+36
+passwordIngresada = PASSWORD_USUARIO
+6
+1
+7
+intento
+11
+intento + 1
+13
+6
+1
+14
+estadoConexion
+11
+'VERDADERO'
+13
+11
+7
+0
+1
+29
+estadoConexion =  'VERDADERO'
+4
+1
+18
+'Conexion fallida'
+13
+4
+1
+18
+'Conexion exitosa'
+13
 1
