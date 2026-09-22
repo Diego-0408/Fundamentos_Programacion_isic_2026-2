@@ -4,4 +4,47 @@
 1
 0
 0
+6
+2
+15
+totalDescargado
+1
+0
+11
+numArchivos
+1
+0
+9
+1
+21
+totalDescargado < 100
+4
+1
+37
+'Ingrese el tamaño del alrchivo (MB)'
+5
+1
+13
+tamañoArchivo
+6
+1
+15
+totalDescargado
+31
+totalDescargado + tamañoArchivo
+6
+1
+11
+numArchivos
+15
+numArchivos + 1
+4
+1
+69
+'Avance actual: ' , totalDescargado , ' MB. Archivos: ' , numArchivos
+11
+4
+1
+132
+'Limite de cuota de datos alcanzado. Total final descargado: ' , totalDescargado , ' MB en ' , numArchivos , ' archivos procesados.'
 1

@@ -5,7 +5,7 @@
 * **Unidad:** Unidad 1 - Tipos de datos, variables y expresiones
 * **Estudiante:** Diego Miguel Castro Arellano
 * **Número de Control:** 260112001
-* **Fecha de Entrega:** 19/9/26
+* **Fecha de Entrega:** 22/9/26
 
 ## Archivos de la Evidencia
 1. `analisis-ipo.md`: Análisis Entrada-Proceso-Salida.

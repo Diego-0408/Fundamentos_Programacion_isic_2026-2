@@ -1,11 +1,11 @@
-# Práctica [Número]: [Nombre de la Práctica]
+# Práctica 016: Acumulador de transferencia de archivos
 
 ## Información General
 * **Asignatura:** Fundamentos de Programación
 * **Unidad:** Unidad 1 - Tipos de datos, variables y expresiones
 * **Estudiante:** Diego Miguel Castro Arellano
 * **Número de Control:** 260112001
-* **Fecha de Entrega:** 19/9/26
+* **Fecha de Entrega:** 22/9/26
 
 ## Archivos de la Evidencia
 1. `analisis-ipo.md`: Análisis Entrada-Proceso-Salida.
@@ -15,4 +15,4 @@
 5. `reflexion.md`: Autoevaluación y aprendizajes clave.
 
 ## Resumen de la Solución
-[Breve descripción de 2 a 3 renglones sobre cómo tu algoritmo resuelve el problema contextualizado sin usar condicionales ni bucles].
+Para llevar el control exacto de la cuota de descargas, el programa inicializa un acumulador de megabytes y un contador de archivos. A través del bucle Mientras, solicita consecutivamente el tamaño de cada archivo hasta superar el límite de 100 MB, desplegando al final una única cadena resumen con el consumo total alcanzado.
