@@ -1,10 +1,10 @@
 # Reporte de Reflexión y Autoevaluación
 
 ## 1. Retos y Dificultades Encontradas
-[Describe qué parte del diseño algorítmico, formulación matemática o sintaxis de PSeInt/DFD representó un desafío y cómo lo resolviste].
+Fue un reto realizar este codigo por su mayor complejidad secuencial al realizar cada condicional y bucle para que estos tuvieran sentido.
 
 ## 2. Errores Cometidos durante la Depuración
-[Menciona al menos un error que haya ocurrido durante la ejecución paso a paso (ej. error de tipos, parentización incorrecta) y la corrección aplicada].
+Durante la depuracion, ocurrieron errores de sintaxis y errores de condiciones.
 
 ## 3. Conclusión Técnica
-[Explica la importancia de haber resuelto esta práctica respetando la secuencialidad pura y sin el uso de condicionales].
+Este ejercicio me resulto util pq me permitio desarrollar un programa mas robusto pero igual aplicando todo lo que ya eh visto durante la unidad, ademas de seguir una logica y secuencias adecuadas.

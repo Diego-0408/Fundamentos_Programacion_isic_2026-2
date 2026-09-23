@@ -4,4 +4,94 @@
 1
 0
 0
+6
+3
+7
+cant200
+1
+0
+7
+cant4xx
+1
+0
+7
+cant5xx
+1
+0
+6
+1
+1
+i
+1
+1
+4
+1
+29
+'Ingrese total de registros:'
+5
+1
+14
+totalRegistros
+9
+1
+19
+i <= totalRegistros
+4
+1
+22
+'Ingrese codigo HTTP:'
+5
+1
+6
+codigo
+7
+0
+1
+12
+codigo = 200
+7
+0
+1
+31
+codigo >= 400 and codigo <= 499
+7
+0
+1
+31
+codigo >= 500 and codigo <= 599
+13
+6
+1
+7
+cant5xx
+11
+cant5xx + 1
+13
+13
+6
+1
+7
+cant4xx
+10
+cant4xx +1
+13
+13
+6
+1
+7
+cant200
+11
+cant200 + 1
+13
+6
+1
+1
+i
+4
+i +1
+11
+4
+1
+82
+'Exitos 200: ' , cant200 , ' Errores 4xx: ' , cant4xx , ' Errores 5xx: ' , cant5xx
 1
