@@ -4,4 +4,56 @@
 1
 0
 0
+6
+1
+6
+opcion
+2
+-1
+9
+1
+11
+opcion != 0
+4
+1
+51
+'1. Ping  2. Traceroute  0. Salir. Ingrese opcion:'
+5
+1
+6
+opcion
+7
+0
+1
+10
+opcion = 1
+7
+0
+1
+10
+opcion = 2
+7
+0
+1
+10
+opcion = 0
+13
+4
+1
+27
+'Saliendo de la consola...'
+13
+13
+4
+1
+26
+'Ejecutando Traceroute...'
+13
+13
+4
+1
+32
+'Ejecutando Ping al servidor...'
+13
+11
 1
