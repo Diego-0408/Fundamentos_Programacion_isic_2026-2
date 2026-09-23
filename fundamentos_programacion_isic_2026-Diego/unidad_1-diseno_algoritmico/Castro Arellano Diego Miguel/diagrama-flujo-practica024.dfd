@@ -1,0 +1,95 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+8
+proceso1
+15
+'Base de datos'
+8
+proceso2
+14
+'Servicio web'
+8
+proceso3
+20
+'Servicio de correo'
+4
+1
+33
+'Ingrese los segundos iniciales' 
+5
+1
+17
+segundosIniciales
+7
+0
+1
+21
+segundosIniciales > 0
+4
+1
+34
+'El tiempo inicial debe ser mayor'
+13
+8
+1
+1
+t
+1
+17
+segundosIniciales
+1
+1
+1
+1
+2
+-1
+7
+0
+1
+5
+t = 3
+7
+0
+1
+5
+t = 2
+7
+0
+1
+5
+t = 1
+4
+1
+19
+'Numero incorrecto'
+13
+4
+1
+28
+'Cerrando: ' ,proceso3,':',t
+13
+13
+4
+1
+28
+'Cerrando: ' ,proceso2,':',t
+13
+13
+4
+1
+28
+'Cerrando: ' ,proceso1,':',t
+13
+10
+4
+1
+32
+'Servidor apagado correctamente'
+13
+1
