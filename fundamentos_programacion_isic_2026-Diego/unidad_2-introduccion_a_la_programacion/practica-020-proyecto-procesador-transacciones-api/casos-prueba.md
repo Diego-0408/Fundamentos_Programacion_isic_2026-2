@@ -10,4 +10,4 @@ Se ejecutan 3 escenarios diferentes para verificar la exactitud de las operacion
 
 ## Capturas de Pantalla de Ejecución
 ### Caso de Prueba 1
-![Ejecución Caso 1](https://via.placeholder.com/600x300.png?text=Captura+de+Pantalla+Caso+1)
+![Ejecución Caso 1](https://via.placeholder.com/600x300.png?text=Captura+de+Pantalla+Caso+1);
