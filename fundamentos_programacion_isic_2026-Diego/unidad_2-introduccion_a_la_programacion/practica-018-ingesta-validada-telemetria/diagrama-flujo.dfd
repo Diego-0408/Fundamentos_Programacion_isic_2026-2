@@ -4,4 +4,38 @@
 1
 0
 0
+6
+1
+12
+temperatura 
+3
+999
+9
+1
+42
+temperatura < -50.0 or temperatura > 100.0
+4
+1
+57
+'Ingrese la lectura de la temperatura (-50.0 a 100.0 C):'
+5
+1
+11
+temperatura
+7
+0
+1
+42
+temperatura < -50.0 or temperatura > 100.0
+13
+4
+1
+53
+'Error: Lectura invalida fuera de rango. Reintentar.'
+13
+11
+4
+1
+62
+'Lectura confirmada y aceptada por el sistema: ' , temperatura
 1

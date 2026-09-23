@@ -1,11 +1,11 @@
-# Práctica [Número]: [Nombre de la Práctica]
+# Práctica 018: Ingesta validad de telemetria
 
 ## Información General
 * **Asignatura:** Fundamentos de Programación
 * **Unidad:** Unidad 1 - Tipos de datos, variables y expresiones
 * **Estudiante:** Diego Miguel Castro Arellano
 * **Número de Control:** 260112001
-* **Fecha de Entrega:** 19/9/26
+* **Fecha de Entrega:** 22/9/26
 
 ## Archivos de la Evidencia
 1. `analisis-ipo.md`: Análisis Entrada-Proceso-Salida.
@@ -15,4 +15,4 @@
 5. `reflexion.md`: Autoevaluación y aprendizajes clave.
 
 ## Resumen de la Solución
-[Breve descripción de 2 a 3 renglones sobre cómo tu algoritmo resuelve el problema contextualizado sin usar condicionales ni bucles].
+Para asegurar la integridad de la telemetría, el programa implementa un bucle de validación con la estructura Repetir - Hasta Que. Si el sensor o el usuario proporcionan una temperatura fuera del límite operativo (-50.0 °C a 100.0 °C), el sistema atrapa la ejecución, notifica el error y exige una nueva lectura hasta recibir un dato válido.
