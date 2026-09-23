@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+39
+'Ingrese el radio del ducto cilindrico'
+5
+1
+5
+radio
+4
+1
+42
+'Ingrese la longitud del ducto cilindrico'
+5
+1
+8
+longitud
+6
+3
+8
+PI_VALOR
+10
+3.14159265
+8
+areaBase
+24
+PI_VALOR * (radio*radio)
+11
+areaLateral
+31
+2 * PI_VALOR * radio * longitud
+6
+1
+7
+volumen
+38
+PI_VALOR * (radio * radio ) * longitud
+4
+1
+94
+'Area de la Base: ', areaBase, ' | Area Lateral: ', areaLateral, ' | Volumen Total: ', volumen
+1
