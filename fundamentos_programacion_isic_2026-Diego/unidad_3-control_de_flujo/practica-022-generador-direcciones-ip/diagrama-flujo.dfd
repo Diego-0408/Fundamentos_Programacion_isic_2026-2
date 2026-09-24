@@ -4,4 +4,42 @@
 1
 0
 0
+4
+1
+36
+'Ingrese el host inicial (1 a 254):'
+5
+1
+11
+hostInicial
+4
+1
+33
+'Ingrese el host final (1 a 254)'
+5
+1
+9
+hostFinal
+4
+1
+28
+'Direcciones IP asignadas: '
+8
+1
+6
+octeto
+1
+11
+hostInicial
+1
+9
+hostFinal
+1
+1
+5
+4
+1
+21
+'192.168.1.' , octeto
+10
 1

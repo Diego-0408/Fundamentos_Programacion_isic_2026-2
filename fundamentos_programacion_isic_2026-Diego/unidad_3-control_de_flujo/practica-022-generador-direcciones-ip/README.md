@@ -1,11 +1,11 @@
-# Práctica [Número]: [Nombre de la Práctica]
+# Práctica 022: Generador de direcciones IP de subnetting
 
 ## Información General
 * **Asignatura:** Fundamentos de Programación
-* **Unidad:** Unidad 1 - Tipos de datos, variables y expresiones
+* **Unidad:** Unidad 3 - Tipos de datos, variables y expresiones
 * **Estudiante:** Diego Miguel Castro Arellano
 * **Número de Control:** 260112001
-* **Fecha de Entrega:** 19/9/26
+* **Fecha de Entrega:** 23/9/26
 
 ## Archivos de la Evidencia
 1. `analisis-ipo.md`: Análisis Entrada-Proceso-Salida.
@@ -15,4 +15,4 @@
 5. `reflexion.md`: Autoevaluación y aprendizajes clave.
 
 ## Resumen de la Solución
-[Breve descripción de 2 a 3 renglones sobre cómo tu algoritmo resuelve el problema contextualizado sin usar condicionales ni bucles].
+El algoritmo automatiza la generación de direcciones IP de subred utilizando un bucle Para configurado con un tamaño de paso de 5. Esto permite incrementar el último octeto de forma no consecutiva entre el host inicial y final especificados, asegurando un direccionamiento estructurado sin requerir condicionales internas.

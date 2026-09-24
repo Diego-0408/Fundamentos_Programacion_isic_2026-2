@@ -1,10 +1,11 @@
 # Reporte de Reflexión y Autoevaluación
 
 ## 1. Retos y Dificultades Encontradas
-[Describe qué parte del diseño algorítmico, formulación matemática o sintaxis de PSeInt/DFD representó un desafío y cómo lo resolviste].
+La unica parte algo complicada fue asignar correctamente el programa para que se impriman las IP tal y como lo son en la realidad.
 
 ## 2. Errores Cometidos durante la Depuración
-[Menciona al menos un error que haya ocurrido durante la ejecución paso a paso (ej. error de tipos, parentización incorrecta) y la corrección aplicada].
+
+En la depuracion al inicio me salio un error de la asignacion que se hizo.
 
 ## 3. Conclusión Técnica
-[Explica la importancia de haber resuelto esta práctica respetando la secuencialidad pura y sin el uso de condicionales].
+Esta practica me resulto util para familiarizarme mas con el ciclo "Para" y aprender como es un direccion IP.
