@@ -15,4 +15,4 @@
 5. `reflexion.md`: Autoevaluación y aprendizajes clave.;
 
 ## Resumen de la Solución
-[Breve descripción de 2 a 3 renglones sobre cómo tu algoritmo resuelve el problema contextualizado sin usar condicionales ni bucles].
+El programa integra estructuras de selección y ciclos repetitivos para administrar un lote continuo de transacciones bancarias. Mantiene la integridad financiera validando los datos de entrada, calculando saldos en tiempo real y clasificando las operaciones en exitosas o rechazadas para generar un informe contable al finalizar el proceso.
