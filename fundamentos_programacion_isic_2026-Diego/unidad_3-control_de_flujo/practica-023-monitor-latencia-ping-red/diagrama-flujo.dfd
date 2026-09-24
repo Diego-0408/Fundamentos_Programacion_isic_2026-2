@@ -4,4 +4,69 @@
 1
 0
 0
+6
+2
+13
+sumaLatencias
+3
+0.0
+14
+latenciaMaxima
+3
+0.0
+8
+1
+1
+i
+1
+1
+1
+1
+1
+5
+1
+1
+1
+4
+1
+50
+'Ingrese la latencia de la prueba ' , i , ' (ms):'
+5
+1
+8
+latencia
+6
+1
+13
+sumaLatencias
+24
+sumaLatencias + latencia
+7
+0
+1
+25
+latencia > latenciaMaxima
+13
+6
+1
+14
+latenciaMaxima
+8
+latencia
+13
+10
+6
+1
+8
+promedio
+18
+sumaLatencias /  5
+4
+1
+40
+'Latencia promedio: ' , promedio , ' ms'
+4
+1
+44
+'Latencia maxima: ' , latenciaMaxima , ' ms'
 1
