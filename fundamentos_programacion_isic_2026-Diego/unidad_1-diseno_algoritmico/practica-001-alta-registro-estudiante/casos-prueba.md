@@ -11,10 +11,10 @@ Se ejecutan 3 escenarios diferentes para verificar la exactitud de la captura de
 ## Capturas de Pantalla de Ejecución
 
 ### Caso de Prueba 1
-![Ejecución Caso 1](./imagenes/caso_prueba1.jpeg)
+![Ejecución Caso 1](./imagenes/caso1.jpeg)
 
 ### Caso de Prueba 2
-![Ejecución Caso 2](./imagenes/caso_prueba2.jpeg)
+![Ejecución Caso 2](./imagenes/caso2.jpeg)
 
 ### Caso de Prueba 3
-![Ejecución Caso 3](./imagenes/caso_prueba3.jpeg)
+![Ejecución Caso 3](./imagenes/caso3.jpeg)
