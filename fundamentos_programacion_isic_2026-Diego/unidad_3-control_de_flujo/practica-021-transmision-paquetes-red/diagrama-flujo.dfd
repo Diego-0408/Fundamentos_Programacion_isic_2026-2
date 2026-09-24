@@ -4,4 +4,34 @@
 1
 0
 0
+4
+1
+50
+'Ingrese el numero total de paquetes a transmitir'
+5
+1
+13
+totalPaquetes
+8
+1
+1
+i
+1
+1
+1
+1
+13
+totalPaquetes
+1
+1
+1
+4
+1
+50
+'Enviando paquete ',i, ' de ',totalPaquetes, '...'
+10
+4
+1
+34
+'Transmision completada con exito'
 1

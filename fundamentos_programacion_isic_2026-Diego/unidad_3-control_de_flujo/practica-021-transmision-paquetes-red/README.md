@@ -1,11 +1,11 @@
-# Práctica [Número]: [Nombre de la Práctica]
+# Práctica Transmision de paquetes de red: 021
 
 ## Información General
 * **Asignatura:** Fundamentos de Programación
-* **Unidad:** Unidad 1 - Tipos de datos, variables y expresiones
+* **Unidad:** Unidad 2 - Tipos de datos, variables y expresiones
 * **Estudiante:** Diego Miguel Castro Arellano
 * **Número de Control:** 260112001
-* **Fecha de Entrega:** 19/9/26
+* **Fecha de Entrega:** 23/9/26
 
 ## Archivos de la Evidencia
 1. `analisis-ipo.md`: Análisis Entrada-Proceso-Salida.
@@ -15,4 +15,4 @@
 5. `reflexion.md`: Autoevaluación y aprendizajes clave.
 
 ## Resumen de la Solución
-[Breve descripción de 2 a 3 renglones sobre cómo tu algoritmo resuelve el problema contextualizado sin usar condicionales ni bucles].
+El programa utiliza un ciclo Para para gestionar la iteración contada sobre la cantidad exacta de paquetes especificada por el usuario. La variable iteradora i incrementa automáticamente en cada paso para simular el orden secuencial de los datos transmitidos hasta alcanzar el límite fijado y notificar la finalización correcta del proceso.
