@@ -1,11 +1,11 @@
-# Práctica [Número]: [Nombre de la Práctica]
+# Práctica 026: Recepcion de archivo por fragmentos (Streaming)
 
 ## Información General
 * **Asignatura:** Fundamentos de Programación
-* **Unidad:** Unidad 1 - Tipos de datos, variables y expresiones
+* **Unidad:** Unidad 3 - Tipos de datos, variables y expresiones
 * **Estudiante:** Diego Miguel Castro Arellano
 * **Número de Control:** 260112001
-* **Fecha de Entrega:** 19/9/26
+* **Fecha de Entrega:** 24/9/26
 
 ## Archivos de la Evidencia
 1. `analisis-ipo.md`: Análisis Entrada-Proceso-Salida.
@@ -15,4 +15,4 @@
 5. `reflexion.md`: Autoevaluación y aprendizajes clave.
 
 ## Resumen de la Solución
-[Breve descripción de 2 a 3 renglones sobre cómo tu algoritmo resuelve el problema contextualizado sin usar condicionales ni bucles].
+Se desarrolló un algoritmo de streaming que utiliza un bucle condicionado al tamaño remanente de un archivo. El sistema procesa fragmentos de datos variables restándolos iterativamente e incluye una regla de validación para ajustar el saldo a cero si un bloque excede lo pendiente, finalizando la descarga con éxito.

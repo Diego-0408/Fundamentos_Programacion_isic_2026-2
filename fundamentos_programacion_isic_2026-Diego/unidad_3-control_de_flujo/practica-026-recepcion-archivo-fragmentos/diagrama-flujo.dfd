@@ -4,4 +4,58 @@
 1
 0
 0
+4
+1
+44
+'Ingrese el tamaño total del archivo en MB:'
+5
+1
+11
+tamanoTotal
+6
+1
+9
+remanente
+11
+tamanoTotal
+9
+1
+13
+remanente > 0
+4
+1
+48
+'Ingrese el tamaño del fragmento recibido (MB):'
+5
+1
+11
+tamanoChunk
+7
+0
+1
+23
+tamanoChunk > remanente
+6
+1
+9
+remanente
+23
+remanente - tamanoChunk
+13
+6
+1
+10
+remanente 
+1
+0
+13
+4
+1
+46
+'Remanente restante por descargar:', remanente
+11
+4
+1
+33
+'¡Descarga finalizada con éxito!'
 1
