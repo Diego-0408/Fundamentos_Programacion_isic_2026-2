@@ -1,13 +1,15 @@
 # Tabla de Casos de Prueba
 
-Se ejecutan 3 escenarios diferentes para verificar la exactitud de las operaciones numéricas y las salidas lógicas.
+| Caso | Entradas Ingresadas | Resultado Esperado | Estatus |
+| :--- | :--- | :--- | :--- |
+| **1** | $N = 1$, Peticiones: `20`, `10`, `0` | Acepta ambas, total 30 MB procesados. | **PASÓ** |
+| **2** | $N = 1$, Peticiones: `30`, `30` (rechazada), `0` | Rechaza la segunda por superar 50 MB, total 30 MB. | **PASÓ** |
+| **3** | $N = 1$, Peticiones: `0` | Servidor vacío, total 0 MB procesados. | **PASÓ** |
 
-| Caso | Valor de Entradas Ingresadas | Resultado Calculado / Esperado | Resultado Obtenido en PSeInt | Estatus (PASÓ / FALLÓ) |
-| :---: | :--- | :--- | :--- | :---: |
-| **1** | Entrada A: ...<br>Entrada B: ... | Salida A: ...<br>Salida B: ... | Salida A: ...<br>Salida B: ... | **PASÓ** |
-| **2** | Entrada A: ...<br>Entrada B: ... | Salida A: ...<br>Salida B: ... | Salida A: ...<br>Salida B: ... | **PASÓ** |
-| **3** | Entrada A: ...<br>Entrada B: ... | Salida A: ...<br>Salida B: ... | Salida A: ...<br>Salida B: ... | **PASÓ** |
-
-## Capturas de Pantalla de Ejecución
+## Capturas de Pantalla
 ### Caso de Prueba 1
-![Ejecución Caso 1](https://via.placeholder.com/600x300.png?text=Captura+de+Pantalla+Caso+1)
+![Ejecución Caso 1](imagenes/caso1.png)
+### Caso de Prueba 2
+![Ejecución Caso 2](imagenes/caso2.png)
+### Caso de Prueba 3
+![Ejecución Caso 3](imagenes/caso3.png)
