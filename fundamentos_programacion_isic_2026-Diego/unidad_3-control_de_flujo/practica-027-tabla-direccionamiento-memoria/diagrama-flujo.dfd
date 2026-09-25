@@ -4,4 +4,45 @@
 1
 0
 0
+4
+1
+63
+'Ingrese el número máximo de bits a evaluar (N, entre 1 y 16):'
+5
+1
+7
+maxBits
+7
+0
+1
+30
+maxBits >= 1 and maxBits <= 16
+4
+1
+63
+'Error: N debe estar entre 1 y 16 para evitar desbordamientos.'
+13
+8
+1
+1
+i
+1
+1
+0
+1
+7
+maxBits
+0
+6
+1
+11
+direcciones
+5
+2 ^ i
+4
+1
+55
+'Bits: ', i, ' | Direcciones de memoria: ', direcciones
+10
+13
 1
