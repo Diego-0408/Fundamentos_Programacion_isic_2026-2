@@ -4,4 +4,135 @@
 1
 0
 0
+4
+1
+54
+'Ingrese la cantidad de servidores en el clúster (N):'
+5
+1
+1
+N
+6
+2
+13
+totalMBGlobal
+1
+0
+21
+totalPeticionesGlobal
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+0
+6
+2
+13
+cargaServidor
+1
+0
+18
+peticionesServidor
+1
+0
+4
+1
+16
+'---Servidor---'
+4
+1
+86
+'Ingrese el tamaño de la petición en MB (ingrese 0 para pasar al siguiente servidor):'
+5
+1
+14
+tamanoPeticion
+9
+1
+18
+cargaServidor < 50
+7
+0
+1
+38
+(cargaServidor + tamanoPeticion) <= 50
+4
+1
+71
+'Petición rechazada: Excede la capacidad máxima de 50 MB del servidor.'
+13
+6
+3
+13
+cargaServidor
+30
+cargaServidor + tamanoPeticion
+18
+peticionesServidor
+22
+peticionesServidor + 1
+13
+totalMBGlobal
+30
+totalMBGlobal + tamanoPeticion
+6
+1
+21
+totalPeticionesGlobal
+25
+totalPeticionesGlobal + 1
+4
+1
+69
+'Petición aceptada. Carga actual del servidor: ', cargaServidor, 'MB'
+13
+4
+1
+68
+'Ingrese otro tamaño de petición (o 0 para terminar este servidor):'
+5
+1
+14
+tamanoPeticion
+11
+7
+0
+1
+22
+peticionesServidor > 0
+6
+1
+16
+promedioServidor
+1
+0
+13
+6
+1
+16
+promedioServidor
+34
+cargaServidor / peticionesServidor
+13
+4
+1
+101
+'Resumen Servidor: MB consumidos = ', cargaServidor, ' | Peticiones atendidas = ', peticionesServidor
+4
+1
+67
+'Promedio de MB por petición en este servidor = ', promedioServidor
+10
+4
+1
+137
+'=== REPORTE GLOBAL DEL CLÚSTER === Total de MB procesados: ', totalMBGlobal, ' | Total de peticiones atendidas: ', totalPeticionesGlobal
 1

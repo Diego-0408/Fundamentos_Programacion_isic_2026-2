@@ -1,10 +1,10 @@
 # Reporte de Reflexión y Autoevaluación
 
 ## 1. Retos y Dificultades Encontradas
-[Describe qué parte del diseño algorítmico, formulación matemática o sintaxis de PSeInt/DFD representó un desafío y cómo lo resolviste].
+El principal reto en esta practica fue medir un crecimiento exponencial utilizando un ciclo mientras.
 
 ## 2. Errores Cometidos durante la Depuración
-[Menciona al menos un error que haya ocurrido durante la ejecución paso a paso (ej. error de tipos, parentización incorrecta) y la corrección aplicada].
+No ocurrio ningun error en la depuracion.
 
 ## 3. Conclusión Técnica
-[Explica la importancia de haber resuelto esta práctica respetando la secuencialidad pura y sin el uso de condicionales].
+Esta practica me ayudo para la implementacion de bucles mientras para el uso de controlar crecimiento en un porgrama.

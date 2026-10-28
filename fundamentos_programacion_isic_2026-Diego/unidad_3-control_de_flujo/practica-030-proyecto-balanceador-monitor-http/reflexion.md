@@ -1,10 +1,10 @@
 # Reporte de Reflexión y Autoevaluación
 
 ## 1. Retos y Dificultades Encontradas
-[Describe qué parte del diseño algorítmico, formulación matemática o sintaxis de PSeInt/DFD representó un desafío y cómo lo resolviste].
+El reto principal de este programa fue cordinar la estructura repetitiva, un bucle, mientras y un bucle "para", para recorrer los servidores
 
 ## 2. Errores Cometidos durante la Depuración
-[Menciona al menos un error que haya ocurrido durante la ejecución paso a paso (ej. error de tipos, parentización incorrecta) y la corrección aplicada].
+Al depurar ocurrieron errores de operandos, sintaxis y coloque mal un operando en la condicion del bucle "mientras"
 
 ## 3. Conclusión Técnica
-[Explica la importancia de haber resuelto esta práctica respetando la secuencialidad pura y sin el uso de condicionales].
+Este proyecto fue importante para entender las estructuras de multiples estructuras de control, validaciones, uso de variables acumulativas y estructuras algoritmicas estructuradas.
